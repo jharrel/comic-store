@@ -12,7 +12,7 @@ class Directory extends React.Component {
       sections: [
         {
           title: 'hats',
-          imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+          imageUrl: 'https://i.ibb.co/cXYpwPN/background.jpg',
           id: 1,
           linkUrl: 'hats'
         },
@@ -30,7 +30,7 @@ class Directory extends React.Component {
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          imageUrl: 'https://i.ibb.co/cXYpwPN/background.jpg',
           size: 'large',
           id: 4,
           linkUrl: ''
